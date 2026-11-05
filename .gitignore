@@ -44,6 +44,10 @@ cmake-build-*/
 
 # Claude Code
 .claude/
+# Instrucciones y configuración de Claude (en cualquier carpeta)
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
 *.vc.db*
 *.db-wal
 *.db-shm
